@@ -1,0 +1,3 @@
+[submodule "ir-remote-app"]
+	path = ir-remote-app
+	url = https://github.com/abukhalid-io/ir-remote-app.git
